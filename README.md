@@ -3,7 +3,7 @@
 
 🔭 Building from scratch this new github, sharing my experiences and endeavors
 
-⚡ You know what? **Data**, **Code** and **AI**... three things that moves me ❤️
+⚡ You know what? **Engineering**, **Data**, **Code** and **AI**... three things that moves me ❤️
 
 💬 Wanna chat? Please connect! Love networking
 
