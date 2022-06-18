@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Vinicius 👋
 
-<!--
-**vini-ribems/vini-ribems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 Building from scratch this new github, sharing my experiences and endeavors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ You know what? **Data**, **Code** and **AI**... three things that moves me ❤️
+
+💬 Wanna chat? Please connect! Love networking
+
+🌱 I’m currently planting tech seeds to see great transformations
+
+---
+[![Follow](https://img.shields.io/twitter/follow/vini_ribems?style=social)](https://twitter.com/intent/follow?screen_name=vini_ribems)    <a href="https://www.linkedin.com/in/vinicius-ribeiro-ms/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
